@@ -39,7 +39,7 @@ limitations under the License.
         <java-mail.version>1.4.7</java-mail.version>
         <jstl.version>1.2</jstl.version>
         <angular.version>1.7.8</angular.version>
-        <ant.version>1.10.8</ant.version>
+        <ant.version>1.10.9</ant.version>
         <asm.version>8.0.1</asm.version>
         <commons-validator.version>1.6</commons-validator.version>
         <commons-beanutils.version>1.9.4</commons-beanutils.version>
